@@ -1,5 +1,5 @@
 <html>
-<body>
+<body>"Hi!"
 <h1>Welcome To SM703</h1>
 </body>
 <body style="color:red;">
