@@ -4,13 +4,13 @@
 </body>
 <body style="color:red;">
  <div class="container">
-    <label for="uname"><b>Username:    </b></label>
-    <input type="text" placeholder="Enter Username" name="uname" required>
+    <label for="uname"><b>Integer 1:    </b></label>
+    <input type="text" placeholder="Enter a number" name="uname" required>
 <br></br>
-    <label for="psw"><b>Password:     </b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+    <label for="psw"><b>Integer 2:     </b></label>
+    <input type="password" placeholder="Enter a number" name="psw" required>
 <br></br>
-   <button type="submit">Login</button>
+   <button type="submit">Add</button>
 <style>
 h1
 {
