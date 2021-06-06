@@ -40,5 +40,11 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
-
+         
+  <properties>
+    <sonar.projectKey>smertaydin_maven</sonar.projectKey>
+    <sonar.organization>smertaydin</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+         
 </project>
