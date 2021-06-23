@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>SM-703 Course Project</title>
+		<title>Welcome to SM-703 Course Project</title>
 		<script type="text/javascript">
 			function addTwoNumbers(textBox1, textBox2){
 				var x=document.getElementById(textBox1).value;
