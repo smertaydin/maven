@@ -12,7 +12,7 @@
 		</script>
 	</head>
 <body>
-	<h1>SM-703 Course Project</h1>
+	<h1>SM703 Course Project</h1>
 	<b>Enter first Number: </b><br>
 	<input type="text" id="textIn1"/><br>
 	<b>Enter second Number: </b><br>
